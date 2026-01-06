@@ -7,26 +7,12 @@ const Footer = () => {
           <span className="text-xs text-muted-foreground">.new</span>
         </div>
 
-        <div className="flex items-center gap-8">
-          <a
-            href="#"
-            className="text-sm text-muted-foreground hover:text-foreground transition-colors"
-          >
-            Twitter
-          </a>
-          <a
-            href="#"
-            className="text-sm text-muted-foreground hover:text-foreground transition-colors"
-          >
-            Discord
-          </a>
-          <a
-            href="#"
-            className="text-sm text-muted-foreground hover:text-foreground transition-colors"
-          >
-            Contact
-          </a>
-        </div>
+        <a
+          href="mailto:admin@ability.new"
+          className="text-sm text-muted-foreground hover:text-foreground transition-colors"
+        >
+          Contact
+        </a>
 
         <p className="text-sm text-muted-foreground">
           © 2026 Ability. All rights reserved.
