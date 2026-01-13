@@ -45,6 +45,18 @@ const JoinSection = () => {
             <p className="text-xs text-muted-foreground mt-4">
               No spam. Just updates on our journey.
             </p>
+            <a 
+              href="https://e2b.dev/startups" 
+              target="_blank" 
+              rel="noopener noreferrer"
+              className="mt-6 inline-block hover:opacity-80 transition-opacity"
+            >
+              <img 
+                src="/assets/e2b-startups.png" 
+                alt="E2B for Startups" 
+                className="h-8"
+              />
+            </a>
           </form>
         ) : (
           <div className="py-8">
