@@ -6,17 +6,17 @@ const Footer = () => {
 
         <a
           href="mailto:admin@ability.new"
-          className="text-sm text-muted-foreground hover:text-foreground transition-colors"
-        >
+          className="text-sm text-muted-foreground hover:text-foreground transition-colors">
+
           Contact
         </a>
 
-        <p className="text-sm text-muted-foreground">
-          © 2026 Ability. All rights reserved.
+        <p className="text-sm text-muted-foreground">© 2026 Ability. All rights reserved.   Ability AI Technologies Private Limited
+
         </p>
       </div>
-    </footer>
-  );
+    </footer>);
+
 };
 
 export default Footer;
