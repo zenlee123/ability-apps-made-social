@@ -12,7 +12,7 @@ const Footer = () => {
         </a>
 
         <p className="text-sm text-muted-foreground">
-          © 2026 Ability. All rights reserved.
+          © 2026 Ability AI Technologies Private Limited. All rights reserved.
         </p>
       </div>
     </footer>
